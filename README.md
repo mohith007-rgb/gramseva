@@ -13,7 +13,7 @@ GramSeva is a multilingual government-scheme discovery assistant that helps peop
 
 Instead of asking users to understand complicated eligibility rules, search through government portals, or know the name of a scheme beforehand, GramSeva lets them simply speak or type about themselves.
 
-For example:
+For example;
 
 “I am 45 years old, I live in Karnataka, and I am a small farmer. What government schemes might be available to me?”
 
@@ -34,7 +34,7 @@ A person may know that government assistance exists, but not know:
 which schemes are relevant to them,
 what information matters for eligibility,
 what the scheme actually provides,
-or where they should go to verify and apply.
+or where they should go to verify and apply
 
 This becomes even harder when information is presented through formal government portals and documents that aren't designed around a person's individual situation.
 
@@ -52,7 +52,7 @@ User says:
 
 “I'm 24, I live in Karnataka, I've finished my degree and I'm currently looking for a job.”
 
-GramSeva understands:
+GramSeva understands;
 
 Age → 24
 State → Karnataka
@@ -65,7 +65,7 @@ The recommendation engine then compares the available information against the el
 
 An important design decision
 
-The AI does not decide whether someone is officially eligible.
+The AI does not decide whether someone is officially eligible
 
 The language model is used to understand the user's description and extract structured information.
 
